@@ -1,0 +1,36 @@
+
+[
+    {
+        "title":"Platform Agnostic",
+        "subtext":"We deliver profitable commerce using world's leading eCommerce platforms.",
+        "detailtext":"We are partners and certified experts of world's leading eCommerce platforms like Magento by Adobe, Shopify Plus, Commercetools and VTex. We take an agnostic approach to platform selection, ensuring our client's business needs are served as priority.",
+        "link":"View Our Partners & Capabilities",
+
+        "blocks":[
+            {
+                "image":"images/adobe.svg",
+                "width":147,
+                "height":40,
+                "text":"Nulla facilisi. Aliquam porttitor eros eget tincidunt ultricies. Curabitur fringilla eu erat nec aliquam. Integer pharetra lectus risus, ac interdum nulla cursus vitae. Sed in erat quis ex vestibulum fringilla. Praesent libero justo, viverra et posuere porta."
+            },
+            {
+                "image":"images/shopify.svg",
+                "width":194,
+                "height":40,
+                "text":"Nulla facilisi. Aliquam porttitor eros eget tincidunt ultricies. Curabitur fringilla eu erat nec aliquam. Integer pharetra lectus risus, ac interdum nulla cursus vitae. Sed in erat quis ex vestibulum fringilla. Praesent libero justo, viverra et posuere porta."
+            },
+            {
+                "image":"images/commercetools.svg",
+                "width":280,
+                "height":40,
+                "text":"Nulla facilisi. Aliquam porttitor eros eget tincidunt ultricies. Curabitur fringilla eu erat nec aliquam. Integer pharetra lectus risus, ac interdum nulla cursus vitae. Sed in erat quis ex vestibulum fringilla. Praesent libero justo, viverra et posuere porta."
+            },
+            {
+                "image":"images/vtex.svg",
+                "width":111,
+                "height":40,
+                "text":"Nulla facilisi. Aliquam porttitor eros eget tincidunt ultricies. Curabitur fringilla eu erat nec aliquam. Integer pharetra lectus risus, ac interdum nulla cursus vitae. Sed in erat quis ex vestibulum fringilla. Praesent libero justo, viverra et posuere porta."
+            }
+        ]
+    }
+]

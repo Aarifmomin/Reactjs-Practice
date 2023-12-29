@@ -1,0 +1,28 @@
+{
+    "Topic":[
+        {
+            "type":"Topic",
+            "Allsolution":[
+                { "name":"All Topics" },
+                { "name":"Magento" },
+                { "name":"Shopify" },
+                { "name":"Headless Commerce" },
+                { "name":"Holiday Season" },
+                { "name":"News & Events" },
+                { "name":"Digital Marketing" },
+                { "name":"Marketplace" },
+                { "name":"Conversational AI" },
+                { "name":"eCommerce Trends" },
+                { "name":"eCommerce Trends" }
+            ]
+        },
+        {
+            "type":"Category",
+            "Allsolution":[
+                { "name":"All Categories" },
+                { "name":"Blog" },
+                { "name":"eBooks" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "WAKData" :[
+        {
+        "title":"We are Krish",
+        "subText":"We'll match you to an entire remote team of incredible freelance talent for all your software development needs.",            
+        "paragraph":"Praesent purus risus, pharetra et malesuada eget, volutpat ac felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida justo pretium metus finibus dapibus. Aliquam mi eros, egestas in venenatis ut, scelerisque sit amet magna. Donec in condimentum magna. Proin ut lectus nisl. Suspendisse laoreet est vitae erat tincidunt, sed congue enim aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+        }
+    ],
+    "Companydata" :[
+        {
+            "number":"200+",
+            "text":"Global Team",
+            "animationDuration":"500"
+        },
+        {
+            "number":"17+",
+            "text":"Yrs of Experience",
+            "animationDuration":"700"
+        },
+        {
+            "number":"$ 2.5B+",
+            "text":"Revenue Empowered",
+            "animationDuration":"900"
+        },
+        {
+            "number":"100+",
+            "text":"Adobe Certification",
+            "animationDuration":"1100"
+        },
+        {
+            "number":"300+",
+            "text":"Storefronts Launched",
+            "animationDuration":"1300"
+        },
+        {
+            "number":"05",
+            "text":"Awards Won",
+            "animationDuration":"1500"
+        }
+    ]
+}

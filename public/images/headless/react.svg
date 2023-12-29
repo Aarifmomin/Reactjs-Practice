@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.108" height="57.624" viewBox="0 0 119.108 57.624">
+  <g id="react" transform="translate(-314.694 -1806.634)">
+    <text id="React-2" data-name="React" transform="translate(377.802 1843)" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">React</tspan></text>
+    <g id="React-icon" transform="translate(315.694 1808)">
+      <circle id="Ellipse_48" data-name="Ellipse 48" cx="4.839" cy="4.839" r="4.839" transform="translate(21.128 22.606)"/>
+      <g id="Group_56980" data-name="Group 56980" transform="translate(0 0)">
+        <ellipse id="Ellipse_49" data-name="Ellipse 49" cx="25.967" cy="9.915" rx="25.967" ry="9.915" transform="translate(0 17.531)" fill="none" stroke="#000" stroke-width="2"/>
+        <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="25.967" cy="9.915" rx="25.967" ry="9.915" transform="translate(21.57 0) rotate(60)" fill="none" stroke="#000" stroke-width="2"/>
+        <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="25.967" cy="9.915" rx="25.967" ry="9.915" transform="translate(47.537 9.915) rotate(120)" fill="none" stroke="#000" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

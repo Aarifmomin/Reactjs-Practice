@@ -1,0 +1,39 @@
+{
+    "MenuList":[
+        {
+            "id":1,
+            "name":"Work",
+            "link":"/work"
+        },
+        {
+            "id":2,
+            "name":"Services",
+            "link":"/services"
+        },
+        {
+            "id":3,
+            "name":"Expertise"
+        },
+        {
+            "id":4,
+            "name":"Platforms"
+        },
+        {
+            "id":5,
+            "name":"About"
+        }
+    ],
+    "secondaryMenu":[
+        {
+            "name":"We are Hiring"
+        },
+        {
+            "name":"Insight",
+            "link":"/blog"
+        },
+        {
+            "name":"Let's Talk commerce",
+            "class":"talk"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "TitleBlock":[
+        {
+            "title":"Our work in action",
+            "subtitle":"We create brands that provoke interactive experiences, digital boom, and business growth."
+        }
+    ],
+
+    "WorkList":[
+        {
+            "logo":"images/damas.svg",
+            "country":"UAE",
+            "text":"Over a century old business adopts Magento to expand their commerce and improve customer experience.",
+            "model":"B2C / Magento Commerce",
+            "industry":"Gems and Jewellery",
+            "image":"images/work/damas-list.jpg"
+        },
+        {
+            "logo":"images/nestle.svg",
+            "country":"UAE",
+            "text":"Updated eCommerce platform for a global Leader in delivering bottled drinking water just a click away.",
+            "model":"D2C / Magento Commerce",
+            "industry":"Food & Beverage",
+            "image":"images/work/nestle-list.jpg"
+        },
+        {
+            "logo":"images/nestle.svg",
+            "country":"UAE",
+            "text":"Updated eCommerce platform for a global Leader in delivering bottled drinking water just a click away.",
+            "model":"D2C / Magento Commerce",
+            "industry":"Food & Beverage",
+            "image":"images/work/nestle-list.jpg"
+        }
+    ],
+
+    "SortCategory":[
+        {
+            "type":"All Solution",
+            "Allsolution":[
+                { "name":"All Solutions" },
+                { "name":"B2B" },
+                { "name":"B2C" },
+                { "name":"D2C" },
+                { "name":"Headless Commerce" },
+                { "name":"Mobile Commerce" },
+                { "name":"Marketplace" },
+                { "name":"Omnichannel" },
+                { "name":"Marketing Automation" }
+            ]
+        },
+        {
+            "type":"All Platforms",
+            "Allsolution":[
+                { "name":"All Platforms" },
+                { "name":"Adobe Magento" },
+                { "name":"Shopify Plus" },
+                { "name":"Commercetools" },
+                { "name":"Vtex" },
+                { "name":"Mirakl" },
+                { "name":"VueStoreFront" }
+            ]
+        },
+        {
+            "type":"All Industries",
+            "Allsolution":[
+                { "name":"All Industries" },
+                { "name":"Fashion & Apparel" },
+                { "name":"Health & Beauty" },
+                { "name":"Home Decor" },
+                { "name":"Gems And Jewellery" },
+                { "name":"Consumer Goods & Electronics" },
+                { "name":"Automotive" },
+                { "name":"Kids & Education" },
+                { "name":"Industrial Goods" },
+                { "name":"Food & Beverage" }
+            ]
+        },
+        {
+            "type":"All Regions",
+            "Allsolution":[
+                { "name":"All Regions" },
+                { "name":"USA" },
+                { "name":"UAE" },
+                { "name":"UK" },
+                { "name":"INDIA" }
+            ]
+        }
+    ]
+}

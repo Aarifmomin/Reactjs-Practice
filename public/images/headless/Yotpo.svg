@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.828" height="40" viewBox="0 0 38.828 40">
+  <g id="Yotpo" transform="translate(-2.9 -4.2)">
+    <ellipse id="Ellipse_56" data-name="Ellipse 56" cx="19.414" cy="20" rx="19.414" ry="20" transform="translate(2.9 4.2)"/>
+    <g id="Group_57138" data-name="Group 57138" transform="translate(11.463 16.423)">
+      <path id="Path_43468" data-name="Path 43468" d="M17.5,25.1h2.287l1.76,3.226,1.7-3.226h2.17l-2.874,5.161v2.754H20.433v-2.7Z" transform="translate(-17.5 -25.065)" fill="#fff"/>
+      <path id="Path_43469" data-name="Path 43469" d="M29.9,29.056a4.167,4.167,0,1,1,4.164,4.023A4.167,4.167,0,0,1,29.9,29.056m6.158,0a2.06,2.06,0,1,0-4.106,0,2.048,2.048,0,0,0,2.053,2.229,2.018,2.018,0,0,0,2.053-2.229" transform="translate(-22.627 -25.033)" fill="#fff"/>
+      <path id="Path_43470" data-name="Path 43470" d="M45.953,26.86H43.9V25.1h6.215v1.76H48.067v6.158H45.955Z" transform="translate(-28.416 -25.065)" fill="#fff"/>
+      <path id="Path_43471" data-name="Path 43471" d="M20.653,47.818H18.6V39.9h2.933a3.112,3.112,0,1,1,0,6.215h-.88Zm.763-3.519a1.147,1.147,0,0,0,1.29-1.292,1.189,1.189,0,0,0-1.29-1.349h-.763V44.3Z" transform="translate(-17.955 -31.185)" fill="#fff"/>
+      <path id="Path_43472" data-name="Path 43472" d="M29.8,43.856a4.167,4.167,0,1,1,4.164,4.023A4.167,4.167,0,0,1,29.8,43.856m6.215,0a2.06,2.06,0,1,0-.974,1.925,2.06,2.06,0,0,0,.974-1.925" transform="translate(-22.586 -31.153)" fill="#fff"/>
+      <path id="Path_43473" data-name="Path 43473" d="M44,50.921a1.116,1.116,0,1,1,1.114,1.173A1.208,1.208,0,0,1,44,50.921" transform="translate(-28.458 -35.284)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+[
+	{
+		"title":"We believe in freedom of expression",
+		"subtext":"Explore possibilities with Composable Commerce and build your future. Being a Commerce focused agency, it is the only thing which we know, love and do. But in last 20 years worked on all possible types - B2C, B2B, D2C, Marketplaces, Omnichannel, more...",
+		
+		"blockdata":[
+			{
+				"title":"Innovate",
+				"paragraph":"Empowering brands with the next-gen digital commerce solutions, aiming to transform clients’ way of digital commerce, and their approaches. That can help them sustain and grow in the coming decades. It encompasses MACH/ Composable philosophy.",
+				
+				"Linkdata":[
+					{
+						"text":"eCommerce Strategy Planning"
+					},
+					{
+						"text":"Design Sprints (Solution discovery)"
+					},
+					{
+						"text":"Experience design (CX/UX)"
+					},
+					{
+						"text":"Development & Integrations"
+					}
+				]
+			},
+			{
+				"title":"Evolve",
+				"paragraph":"Technology evolution continues along with business growth. Any business needs continuous upgrades, new integrations, and changes to stay relevant to their clients. We help clients grow in a phased manner keeping their TCO lower and help in managing their challenges on the go.",
+				
+				"Linkdata":[
+					{
+						"text":"Managed Support Services"
+					},
+					{
+						"text":"Managed Hosting (DevOps)"
+					},
+					{
+						"text":"Migrations / Upgrades / Integrations"
+					},
+					{
+						"text":"Functional enhancements"
+					}
+				]
+			},
+			{
+				"title":"Thrive",
+				"paragraph":"Adapting tech is 20% of the game, the rest 80% is how to market and engage customers. We empower your branding and marketing strategies by implementing marketing automation, SEO, Paid promotions, creating engaging content, and more.",
+				
+				"Linkdata":[
+					{
+						"text":"Digital Marketing / SEO / Paid Promotions"
+					},
+					{
+						"text":"Marketing Automation"
+					},
+					{
+						"text":"Customer Engagement Material Design"
+					},
+					{
+						"text":"BI based Consulting"
+					}
+				]
+			}
+		]
+	}
+]
